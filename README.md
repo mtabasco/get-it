@@ -1,6 +1,6 @@
 # Get-it
 
-Marketplace - Sharing Furniture
+Marketplace - Sharing Furniture for homes
 PWA using polymer!!
 
 The following app was made in order to approach an in a short amount of time MVP 
