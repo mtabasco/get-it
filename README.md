@@ -1,7 +1,7 @@
-# iuneed
+# Get-it
 
 Marketplace - Sharing Furniture
-PWA using polymer
+PWA using polymer!!
 
 The following app was made in order to approach an in a short amount of time MVP 
 at #AllStartup19 
