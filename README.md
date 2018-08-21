@@ -11,11 +11,7 @@ Madrid, Spain
 
 ### Team: 
 
-Cinta Martinez - CMO
-
 Marco Tabasco - CTO
-
-Carlos Jimenez - Business
 
 Oscar - CEO
 
