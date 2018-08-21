@@ -22,7 +22,7 @@ Oscar - CEO
 Juan Garassino - UX
 
 
-### Setup
+### Setup for working
 
 ##### Prerequisites
 
